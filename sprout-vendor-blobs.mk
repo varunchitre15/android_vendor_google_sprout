@@ -23,6 +23,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/sprout/proprietary/bin/gsm0710muxd:system/bin/gsm0710muxd \
     vendor/google/sprout/proprietary/bin/lsm303md:system/bin/lsm303md \
     vendor/google/sprout/proprietary/bin/md_ctrl:system/bin/md_ctrl \
+    vendor/google/sprout/proprietary/bin/msensord:system/bin/msensord \
     vendor/google/sprout/proprietary/bin/mtk_agpsd:system/bin/mtk_agpsd \
     vendor/google/sprout/proprietary/bin/mtkrild:system/bin/mtkrild \
     vendor/google/sprout/proprietary/bin/muxreport:system/bin/muxreport \

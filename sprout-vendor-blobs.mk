@@ -57,6 +57,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/sprout/proprietary/lib/hw/gralloc.mt6582.so:system/lib/hw/gralloc.mt6582.so \
     vendor/google/sprout/proprietary/lib/hw/hwcomposer.mt6582.so:system/lib/hw/hwcomposer.mt6582.so \
     vendor/google/sprout/proprietary/lib/hw/sensors.mt6582.so:system/lib/hw/sensors.mt6582.so \
+    vendor/google/sprout/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/google/sprout/proprietary/lib/lib3a.so:system/lib/lib3a.so \
     vendor/google/sprout/proprietary/lib/libJpgEncPipe.so:system/lib/libJpgEncPipe.so \
     vendor/google/sprout/proprietary/lib/libMali.so:system/lib/libMali.so \
@@ -92,6 +93,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/sprout/proprietary/lib/libcamalgo.so:system/lib/libcamalgo.so \
     vendor/google/sprout/proprietary/lib/libcamdrv.so:system/lib/libcamdrv.so \
     vendor/google/sprout/proprietary/lib/libcameracustom.so:system/lib/libcameracustom.so \
+    vendor/google/sprout/proprietary/lib/libcurl.so:system/lib/libcurl.so \
     vendor/google/sprout/proprietary/lib/libcvsd_mtk.so:system/lib/libcvsd_mtk.so \
     vendor/google/sprout/proprietary/lib/libdpframework.so:system/lib/libdpframework.so \
     vendor/google/sprout/proprietary/lib/libfeatureio.so:system/lib/libfeatureio.so \

@@ -30,7 +30,7 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p10c/proprietary/bin/nvram_daemon:system/bin/nvram_daemon \
     vendor/elephone/p10c/proprietary/bin/thermal_manager:system/bin/thermal_manager \
     vendor/elephone/p10c/proprietary/bin/wmt_loader:system/bin/wmt_loader \
-    vendor/elephone/p10c/proprietary/etc/firmware/WIFI_RAM_CODE_SOC:system/etc/firmware/WIFI_RAM_CODE_SOC \
+    vendor/elephone/p10c/proprietary/etc/firmware/WIFI_RAM_CODE_MT6582:system/etc/firmware/WIFI_RAM_CODE_MT6582 \
     vendor/elephone/p10c/proprietary/etc/firmware/WMT_SOC.cfg:system/etc/firmware/WMT_SOC.cfg \
     vendor/elephone/p10c/proprietary/etc/firmware/catcher_filter_1_wg_n.bin:system/etc/firmware/catcher_filter_1_wg_n.bin \
     vendor/elephone/p10c/proprietary/etc/firmware/modem_1_wg_n.img:system/etc/firmware/modem_1_wg_n.img \

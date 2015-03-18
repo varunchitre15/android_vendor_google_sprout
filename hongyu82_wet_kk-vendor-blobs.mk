@@ -51,12 +51,12 @@ PRODUCT_COPY_FILES += \
     vendor/elephone/p10c/proprietary/lib/egl/libEGL_mali.so:system/lib/egl/libEGL_mali.so \
     vendor/elephone/p10c/proprietary/lib/egl/libGLESv1_CM_mali.so:system/lib/egl/libGLESv1_CM_mali.so \
     vendor/elephone/p10c/proprietary/lib/egl/libGLESv2_mali.so:system/lib/egl/libGLESv2_mali.so \
-    vendor/elephone/p10c/proprietary/lib/hw/audio.primary.mt6582.so:system/lib/hw/audio.primary.mt6582.so \
+    vendor/elephone/p10c/proprietary/lib/hw/audio.primary.default.so:system/lib/hw/audio.primary.default.so \
     vendor/elephone/p10c/proprietary/lib/hw/lights.default.so:system/lib/hw/lights.default.so \
-    vendor/elephone/p10c/proprietary/lib/hw/camera.mt6582.so:system/lib/hw/camera.mt6582.so \
+    vendor/elephone/p10c/proprietary/lib/hw/camera.default.so:system/lib/hw/camera.default.so \
     vendor/elephone/p10c/proprietary/lib/hw/gralloc.mt6582.so:system/lib/hw/gralloc.mt6582.so \
     vendor/elephone/p10c/proprietary/lib/hw/hwcomposer.mt6582.so:system/lib/hw/hwcomposer.mt6582.so \
-    vendor/elephone/p10c/proprietary/lib/hw/sensors.mt6582.so:system/lib/hw/sensors.mt6582.so \
+    vendor/elephone/p10c/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
     vendor/elephone/p10c/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/elephone/p10c/proprietary/lib/lib3a.so:system/lib/lib3a.so \
     vendor/elephone/p10c/proprietary/lib/libJpgEncPipe.so:system/lib/libJpgEncPipe.so \
